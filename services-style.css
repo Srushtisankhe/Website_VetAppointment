@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    list-style: none;
+}
+/* Navbar */
+.nav-logo {
+    margin-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.navbar-brand {
+    background-color: #ffd302;
+    color: #314e45;
+    padding: 5px 10px 5px 10px;
+    font-size: 20px;
+}
+.nav-item {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.dropdown-menu {
+    background-color: #aad13f;
+}
+.dropdown-item {
+    border: none;
+    color: #fff;
+}
+.dropdown-item:hover {
+    color: #314e45;
+}
+.active {
+    background-color: #314e45;
+    opacity: 90%;
+    padding: 10px;
+}
+/* Services Content */
+.s-title {
+    background-color: #ffd302;
+    color: #000;
+}
+.col-md-6 img {
+    border: 1px solid #ffd302;
+}
+.care-form {
+    background-color: #ffd302;
+    color: #000;
+    border-radius: 10px;
+}
+.care-form p {
+    font-size: 18px;
+}
+.contact {
+    background-color:#ffd302;
+}
+.form-color {
+    color: #445c54;
+}
+.form-submit {
+    background-color: #ffd302;
+    border: 1px solid #000;
+    color: #000;
+}
+.fsub {
+    text-align: center;
+}
+.form-submit:hover {
+    background-color: #fff;
+    border: 1px solid #ffd302;
+}
+iframe {
+    background-color: #ffd302;
+}
+footer {
+    background-color: #aad13f;
+    color: #000;
+    text-align: center;
+}
+.social-submit {
+    background-color: #fff;
+    color: #000;
+}
+.social-submit:hover {
+    background-color: #ffd302;
+    border: 1px solid #000;
+    color: #000;
+}
+.scontent {
+    background-color: #fff;
+}
